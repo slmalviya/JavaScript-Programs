@@ -15,3 +15,4 @@ function squreRoot(number) {
 const number = 16;
 const result = squreRoot(number);
 console.log(result);
+
