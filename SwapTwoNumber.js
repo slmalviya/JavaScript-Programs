@@ -8,5 +8,5 @@ temp = a;
 a = b;
 b = temp;
 
-console.log(`after swapping a = ${a}`);
-console.log(`after swaaping b = ${b}`);
+console.log(`after swapping a = ${a}`); // after swap number
+console.log(`after swaaping b = ${b}`); //after swap number
