@@ -23,5 +23,5 @@ function solveQuadratic(a, b, c) {
   console.log(solveQuadratic(a, b, c)); // Output: The root is real and repeated. Root = 1
   
   a = 1, b = 2, c = 5;
-  console.log(solveQuadratic(a, b, c)); // Output: The roots are complex and different. Root1 = -1 + 2i, Root2 = -1 - 2i
+  console.log(solveQuadratic(a, b, c)); // Output: The roots are complex and different. Root1 = -1 + 2i, Root2 = -1 - 2i //
   
