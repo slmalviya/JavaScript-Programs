@@ -1,6 +1,6 @@
 let a = 20;
 let b = 10;
-let temp;
+let temp;  // for swapping number
 console.log(`before swapping a = ${a}`);
 console.log(`before swaaping b = ${b}`);
 
