@@ -1,3 +1,4 @@
+//funcition to convert kilometer to Miles
 function kilometerToMiles(kilometers){
     const conversionFactor = 0.621371;
     let miles = kilometers * conversionFactor;
